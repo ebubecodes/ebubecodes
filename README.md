@@ -41,6 +41,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact"/>
   </a>
   <a href="https://github.com/ebube-ochemba?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ebube-ochemba&show_icons=true&locale=en"/>
   </a>
 </div>
