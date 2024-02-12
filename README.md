@@ -31,7 +31,7 @@
 
 ---
 
-## Stats 📈
+## Stats 📊
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact" alt="ebube-ochemba" /></p>
 
 <!--
