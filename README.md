@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning "foundational concepts" for full-stack development
 - 🤔 I’m particularly enthusiastic about diving into the world of front-end engineering
 - 💬 You can explore my repositories and ask me anything about them
-- 📫 How to reach me: **twitter or LinkedIn**
+- 📫 How to reach me: **X or LinkedIn**
 - ⚡ Fun fact: I have a BSc in Human Anatomy😄
 
 ##  Languages and Tools 🧰
@@ -28,7 +28,7 @@
     <img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="25px"/>
   </a>
   <a href="https://twitter.com/ebube116" target="blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="" height="25"/>
+    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="" height="25"/>
   </a>
   <a href="https://discord.com/@bn63" target="blank">
     <img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="" height="25"/>
