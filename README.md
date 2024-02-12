@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning "foundational concepts" for full-stack development
 - 🤔 I’m particularly enthusiastic about diving into the world of front-end engineering
 - 💬 You can explore my repositories and ask me anything about them
-- 📫 How to reach me: **ebube17@gmail.com**
+- 📫 How to reach me: **twitter or LinkedIn**
 - ⚡ Fun fact: I have a BSc in Human Anatomy😄
 
 ##  Languages and Tools 🧰
@@ -25,28 +25,19 @@
   <a href="https://linkedin.com/in/ebube-ochemba" target="blank">
     <img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="25px"/>
   </a>
-  <a href="https://discord.com/@bn63" target="blank">
-    <img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="" height="25"/>
-  </a>
   <a href="https://twitter.com/ebube116" target="blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="" height="25"/>
+  </a>
+  <a href="https://discord.com/@bn63" target="blank">
+    <img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="" height="25"/>
   </a>
 </p>
 
 ## Stats 📊
 <br/>
 
-<a href="https://github.com/ebube-ochemba?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact"/>
-</a>
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/ebube-ochemba?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact"/>
+  </a>
+</div>
