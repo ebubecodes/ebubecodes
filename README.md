@@ -4,7 +4,6 @@
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebube-ochemba&label=Profile%20views&color=0e75b6&style=flat" alt="ebube-ochemba" /> </p>
-
 <p align="left"> <a href="https://twitter.com/ebube116" target="blank"><img src="https://img.shields.io/twitter/follow/ebube116?logo=twitter&style=for-the-badge" alt="ebube116" /></a> </p>
 
 <h3 align="left">Connect with me ⛓</h3>
@@ -26,7 +25,7 @@
 ##  Languages and Tools 🧰
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,py,html,CSS,js,MySQL,regex,git,github,md,vscode,vim,emacs" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,py,html,css,js,mysql,regex,git,github,md,vscode,vim,emacs" />
   </a>
 </p>
 
