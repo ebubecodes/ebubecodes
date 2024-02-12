@@ -15,8 +15,6 @@
 - 📫 How to reach me: **ebube17@gmail.com**
 - ⚡ Fun fact: I have a BSc in Human Anatomy😄
 
----
-
 ##  Languages and Tools 🧰
 <p align="center">
   <a href="https://skillicons.dev">
@@ -33,7 +31,11 @@
 </p>
 
 ## Stats 📊
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact" alt="ebube-ochemba" /></p>
+<br/>
+
+<a href="https://github.com/ebube-ochemba?tab=repositories>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact" alt="ebube-ochemba"/>
+</a>
 
 <!--
 - 🔭 I’m currently working on ...
