@@ -3,9 +3,6 @@
   <h3 align="center">A passionate software engineering student</h3>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ebube-ochemba&label=Profile%20views&color=0e75b6&style=flat" alt="ebube-ochemba" /> </p>
-<p align="left"> <a href="https://twitter.com/ebube116" target="blank"><img src="https://img.shields.io/twitter/follow/ebube116?logo=twitter&style=for-the-badge" alt="ebube116" /></a> </p>
-
 <br/>
 
 - 🔭 I’m currently a **Software engineering student** at [ALX Africa](https://www.alxafrica.com/)
