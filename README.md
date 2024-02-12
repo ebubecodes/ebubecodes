@@ -14,7 +14,8 @@
 ##  Languages and Tools 🧰
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,py,html,css,js,mysql,regex,md,git,github,vagrant,vscode,vim,emacs"/>
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,py,html,css,js,mysql,regex,md,git,github,vscode,vim,emacs"/>
+    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/>
   </a>
 </p>
 
