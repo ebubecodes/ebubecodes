@@ -25,7 +25,7 @@
 ##  Languages and Tools 🧰
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,c,py,html,css,js,mysql,regex,git,github,md,vscode,vim,emacs" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,c,py,html,css,js,mysql,regex,md,git,github,vscode,vim,emacs" />
   </a>
 </p>
 
