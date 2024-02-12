@@ -16,7 +16,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,c,py,md,html,css,js,mysql,regex,git,github,vscode,vim,emacs"/>
     <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="35"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
 </p>
 
