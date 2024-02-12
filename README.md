@@ -34,7 +34,7 @@
 <br/>
 
 <a href="https://github.com/ebube-ochemba?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact" alt="ebube-ochemba"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact"/>
 </a>
 
 <!--
