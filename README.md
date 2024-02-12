@@ -11,6 +11,7 @@
 - 🔭 I’m currently a **Software engineering student** at [ALX Africa](https://www.alxafrica.com/)
 - 🌱 I’m currently learning "foundational concepts" for full-stack development
 - 🤔 I’m particularly enthusiastic about diving into the world of front-end engineering
+- 💬 You can explore my repositories and ask me anything about them
 - 📫 How to reach me: **ebube17@gmail.com**
 - ⚡ Fun fact: I have a BSc in Human Anatomy😄
 
