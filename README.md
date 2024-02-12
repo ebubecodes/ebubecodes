@@ -21,7 +21,9 @@
     <img src="https://skillicons.dev/icons?i=linux,bash,c,py,html,CSS,js,MySQL,regex,git,github,md,vscode,vim,emacs" />
   </a>
 </p>
+
 ---
+
 ## Stats 📈
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ebube-ochemba&show_icons=true&locale=en&layout=compact" alt="ebube-ochemba" /></p>
 
