@@ -30,9 +30,6 @@
   <a href="https://twitter.com/ebube116" target="blank">
     <img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="" height="25"/>
   </a>
-  <a href="https://discord.com/@bn63" target="blank">
-    <img src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="" height="25"/>
-  </a>
 </p>
 
 ## Stats 📊
