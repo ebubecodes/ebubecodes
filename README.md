@@ -28,7 +28,10 @@
     <img img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="25px"/>
   </a>
   <a href="https://twitter.com/ebube116" target="blank">
-    <img src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="" height="25"/>
+    <img img alt="X" src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="" height="25"/>
+  </a>
+   <a href="https://discordapp.com/users/1191370695603662999" target="blank">
+    <img img alt="Discord" src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="" height="25"/>
   </a>
 </p>
 
