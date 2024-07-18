@@ -36,6 +36,7 @@
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=py"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=regex"/>
 </div>
 
@@ -66,7 +67,6 @@
 ### DevOps  
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
