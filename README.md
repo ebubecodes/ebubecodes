@@ -57,6 +57,7 @@
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=flask"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=nginx"/>
 </div>
 
 </td><td valign="top" width="20%">
@@ -67,7 +68,6 @@
 <img src="https://skillicons.dev/icons?i=linux"/>
 <img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=nginx"/>
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
 </div>
