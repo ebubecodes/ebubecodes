@@ -33,10 +33,10 @@
 <table><tr><td valign="top" width="20%">
 
 ### Skills
-<div align="center">  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=py"/>
-<img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=regex"/>
 </div>
 
