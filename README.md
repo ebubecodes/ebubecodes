@@ -29,10 +29,10 @@
 </p>
 
 
-## Skills 🧰
+## 👨🏽‍🔧 Skills 🧰
 <table><tr><td valign="top" width="20%">
 
-### Skills
+### Tools
 <div align="center">
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=c"/>
