@@ -63,6 +63,7 @@
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=redis"/>
 <img src="https://skillicons.dev/icons?i=nodejs"/>
+<img src="https://skillicons.dev/icons?i=express"/>
 </div>
 
 </td><td valign="top" width="20%">
