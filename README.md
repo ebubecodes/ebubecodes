@@ -5,7 +5,7 @@
 <br/>
 
 - 🔭 I’m currently a **Software Engineering** student at [ALX Africa](https://www.alxafrica.com/)
-- 🌱 I’m currently delving into **foundational concepts** for full-stack development
+- 🌱 I’m currently learning **foundational concepts** for full-stack development
 - 🤔 I’m particularly enthusiastic about **exploring** the world of **open-source**
 - 💬 You can explore my repositories and ask me anything about them
 - 📫 How to reach me: **X or LinkedIn**
