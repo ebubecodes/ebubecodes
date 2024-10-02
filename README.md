@@ -37,9 +37,9 @@
 <img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=py"/>
-<img src="https://skillicons.dev/icons?i=ts"/>
 <img src="https://skillicons.dev/icons?i=bash"/>
-<img src="https://skillicons.dev/icons?i=regex"/>
+<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=jest"/>
 </div>
 
 </td><td valign="top" width="20%">
