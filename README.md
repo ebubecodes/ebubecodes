@@ -86,10 +86,10 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ebube-ochemba?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebube-ochemba&theme=radical"/>
+  <a href="https://github.com/ebubecodes?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ebubecodes&theme=radical"/>
   </a>
-  <a href="https://github.com/ebube-ochemba?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=ebube-ochemba&line_height=40&show_icons=true&theme=radical"/>
+  <a href="https://github.com/ebubecodes?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=ebubecodes&line_height=40&show_icons=true&theme=radical"/>
   </a>
 </div>
