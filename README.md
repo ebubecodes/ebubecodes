@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ebube-ochemba"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=600&height=100&lines=Hello 👋, I'm Ebube 👨🏽‍💻..."></a>
-  <h3 align="center">A passionate software engineering student</h3>
+  <h3 align="center">A passionate software engineer</h3>
 </p>
 <br/>
 
