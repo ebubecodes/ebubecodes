@@ -4,12 +4,12 @@
 </p>
 <br/>
 
-- 🔭 I’m currently a **Software Engineering** student at [ALX Africa](https://www.alxafrica.com/)
-- 🌱 I’m currently learning **foundational concepts** for full-stack development
+- 🔭 I’m a Software Engineer, specializing in Full-Stack Web Development
+- 🌱 I’m currently learning **REACTjs**, **AWS** and **DOCKER**
 - 🤔 I’m particularly enthusiastic about **exploring** the world of **open-source**
 - 💬 You can explore my repositories and ask me anything about them
 - 📫 How to reach me: **X or LinkedIn**
-- ⚡ Fun fact: I have a BSc in Human Anatomy👨🏽‍🎓
+- ⚡ Fun fact: I have a BSc in Human Anatomy👨🏽‍🎓 || [ALX SE](https://www.alxafrica.com/) alumni (backend certified)
 
 <h3 align="left">Connect with me ⛓</h3>
 <p align="left">
