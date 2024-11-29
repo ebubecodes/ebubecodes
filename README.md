@@ -50,7 +50,6 @@
 <img src="https://skillicons.dev/icons?i=html"/>
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=js"/>
-<img src="https://skillicons.dev/icons?i=jquery"/>
 </div>
 
 </td><td valign="top" width="20%">
@@ -58,10 +57,10 @@
 
 ### Backend  
 <div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 <img src="https://skillicons.dev/icons?i=redis"/>
-<img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=flask"/>
 <img src="https://skillicons.dev/icons?i=express"/>
 </div>
@@ -72,7 +71,6 @@
 ### DevOps  
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://skillicons.dev/icons?i=github"/>
 <img src="https://skillicons.dev/icons?i=nginx"/>
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
