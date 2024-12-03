@@ -59,8 +59,8 @@
 <div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs"/>
 <img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=postgres"/>
 <img src="https://skillicons.dev/icons?i=mongodb"/>
-<img src="https://skillicons.dev/icons?i=redis"/>
 <img src="https://skillicons.dev/icons?i=flask"/>
 <img src="https://skillicons.dev/icons?i=express"/>
 </div>
