@@ -51,6 +51,7 @@
 <img src="https://skillicons.dev/icons?i=css"/>
 <img src="https://skillicons.dev/icons?i=js"/>
 <img src="https://skillicons.dev/icons?i=react"/>
+<img src="https://skillicons.dev/icons?i=tailwind"/>
 </div>
 
 </td><td valign="top" width="20%">
