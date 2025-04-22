@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=2999F7&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Ebube+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB..." alt="Typing SVG" /></a>
-  <h3 align="center">A passionate software engineer</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=2999F7&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Ebube+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB...;A+passionate+software+Developer;Let's+Build+Together+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%94%A7" alt="Typing SVG" /></a>
 </p>
 <br/>
 
