@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://github.com/ebube-ochemba"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&width=600&height=100&lines=Hello 👋, I'm Ebube 👨🏽‍💻..."></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&pause=1000&color=2999F7&width=435&lines=Hello+%F0%9F%91%8B%2C+I'm+Ebube+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB..." alt="Typing SVG" /></a>
   <h3 align="center">A passionate software engineer</h3>
 </p>
 <br/>
 
-- 🔭 I’m a Software Engineer, specializing in Full-Stack Web Development
+- 🔭 I’m a FullStack Software Developer
 - 🌱 I’m currently learning **NEXTjs**, **WebGL** and **Niivue**
 - 🤔 I’m particularly enthusiastic about **exploring** the world of **open-source**
 - 💬 You can explore my repositories and ask me anything about them
