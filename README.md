@@ -5,7 +5,7 @@
 <br/>
 
 - 🔭 I’m a Software Engineer, specializing in Full-Stack Web Development
-- 🌱 I’m currently learning **REACTjs**, **AWS** and **DOCKER**
+- 🌱 I’m currently learning **NEXTjs**, **WebGL** and **Niivue**
 - 🤔 I’m particularly enthusiastic about **exploring** the world of **open-source**
 - 💬 You can explore my repositories and ask me anything about them
 - 📫 How to reach me: **X or LinkedIn**
