@@ -31,12 +31,11 @@
 ## 👨🏽‍🔧 Skills 🧰
 <table><tr><td valign="top" width="20%">
 
-### Tools
+### General
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=py"/>
-<img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=ts"/>
 <img src="https://skillicons.dev/icons?i=jest"/>
 </div>
@@ -71,6 +70,7 @@
 
 ### DevOps  
 <div align="center">
+<img src="https://skillicons.dev/icons?i=git"/>
 <img src="https://skillicons.dev/icons?i=linux"/>
 <img src="https://skillicons.dev/icons?i=nginx"/>
 <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="45" height="45"/>
