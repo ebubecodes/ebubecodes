@@ -18,11 +18,7 @@
   <a href="https://x.com/ebubecodes" target="blank">
     <img img alt="X" src="https://img.shields.io/badge/x-%231DA1F2.svg?&style=for-the-badge&logo=x&logoColor=white" alt="" height="25"/>
   </a>
-   <a href="https://discordapp.com/users/1191370695603662999" target="blank">
-    <img img alt="Discord" src="https://img.shields.io/badge/discord-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="" height="25"/>
-  </a>
-   </a>
-   <a href="https://medium.com/@ebubecodes" target="blank">
+  <a href="https://medium.com/@ebubecodes" target="blank">
     <img img alt="Medium" src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="" height="25"/>
   </a>
 </p>
@@ -36,6 +32,7 @@
 <img src="https://skillicons.dev/icons?i=bash"/>
 <img src="https://skillicons.dev/icons?i=c"/>
 <img src="https://skillicons.dev/icons?i=py"/>
+<img src="https://skillicons.dev/icons?i=r"/>
 <img src="https://skillicons.dev/icons?i=ts"/>
 <img src="https://skillicons.dev/icons?i=jest"/>
 </div>
